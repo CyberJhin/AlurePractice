@@ -1,0 +1,4 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Sun Feb 18 17:40:20 GMT 2024","Sun Feb 18 17:40:26 GMT 2024","5727","","org.example.AlureTest","","org.example.AlureTest","githubRepositoryShouldHaveUssuesTitle","Проверка корректности имени Issue на странице Issue с помощью чистого Selenide",""
+"passed","Sun Feb 18 17:40:26 GMT 2024","Sun Feb 18 17:40:28 GMT 2024","2274","","org.example.AlureTest","","org.example.AlureTest","checkIssueNameUsingStepAnnotationTest","Проверка корректности имени Issue на странице Issue с помощью аннотации @Step",""
+"passed","Sun Feb 18 17:40:28 GMT 2024","Sun Feb 18 17:40:31 GMT 2024","2337","","org.example.AlureTest","","org.example.AlureTest","githubRepositoryShouldHaveUssuesTitleStep","Проверка корректности имени Issue на странице Issue с помощью lambda-функций",""
